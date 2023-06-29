@@ -1,0 +1,33 @@
+@import url('https://fonts.googleapis.com/css2?family=Delicious+Handrawn&family=Montserrat:wght@300&display=swap');
+
+body{
+    font-family: 'Delicious Handrawn', cursive;
+}
+
+#watch_area{
+    text-align: center;
+    background-color: orange;
+    max-width: 500px;
+    margin: auto;
+}
+
+h2{
+    padding-top: 200px;
+    font-size: 50px;
+}
+
+button{
+    margin: 50px auto;
+    font-size: 30px;
+    border: 5px solid red;
+    border-radius: 50px;
+    max-width: 200px;
+    padding: 10px 30px;
+    background-color: tomato;
+    font-family: 'Delicious Handrawn', cursive;
+}
+
+
+h1{
+    text-align: center;
+}
